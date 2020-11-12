@@ -15,8 +15,9 @@ redirect_from:
 
 # About Me
 * Hi! I'm Yi-Hui Chou (周奕慧). I am currently pursuing Bachelor's Degree in National Taiwan University (NTU), majoring in Electrical Engineering (EE) since 2017.
-* a member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
-* a part-time research assistant at [Music and AI Lab](https://musicai.citi.sinica.edu.tw/), Academia Sinica since 2020.
+* A member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
+* A part-time research assistant at [Music and AI Lab](https://musicai.citi.sinica.edu.tw/), Academia Sinica since 2020
+* Alongside my interests in speech processing, I'm a classical music lover. In [this video](https://www.youtube.com/watch?v=dU4iPHfb2tI&list=PLWxD9JBT-P09TzTE_kozSU4TOXfiVPGTA&index=11), my friends and I perform Mendelssohn's Piano Trio No. 1, and I'm the one who plays the piano!
 
 # Research Experience
 * Speech Processing and Machine Learning Laboratory, National Taiwan University
