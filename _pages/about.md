@@ -15,8 +15,8 @@ redirect_from:
 
 # About Me
 * Hi! I'm Yi-Hui Chou (周奕慧). I am currently pursuing Bachelor's Degree in National Taiwan University (NTU), majoring in Electrical Engineering (EE) since 2017.
-* A member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/).
-* A part-time research assistant at [Music and AI Lab](https://musicai.citi.sinica.edu.tw/), Academia Sinica since 2020
+* A member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) since Sep. 2019.
+* A part-time research assistant at [Music and AI Lab](https://musicai.citi.sinica.edu.tw/), Academia Sinica since Nov. 2020.
 * Alongside my interests in speech processing, I'm a classical music lover. In [this video](https://www.youtube.com/watch?v=dU4iPHfb2tI&list=PLWxD9JBT-P09TzTE_kozSU4TOXfiVPGTA&index=11), my friends and I perform Mendelssohn's Piano Trio No. 1, and I'm the one who plays the piano!
 
 # Research Experience
@@ -25,7 +25,7 @@ redirect_from:
   * Apply this model on [Zero Resource Speech Challenge 2017](https://zerospeech.com/2017/), which targets the self-supervised discovery of linguistic units from raw speech 
   * Discover that the second hidden layer used for speech representation performs the best, while researchers typically use the last hidden layer 
   * The model we apply generalizes well across languages, indicating the potential of unsupervised pre-training methods for languages with few linguistic resources 
-* Music and AI Laboratory, Academia Sinica 
+* [Music and AI Laboratory](https://musicai.citi.sinica.edu.tw/), Academia Sinica 
 
 # Work Experience
 * Summer software intern at Ganzin Technology (2020)
