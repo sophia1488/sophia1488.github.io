@@ -18,6 +18,7 @@ redirect_from:
 * A member of the "Speech Processing and Machine Learning Laboratory", working with Prof. [Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm) and Prof. [Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/) since Sep. 2019.
 * A part-time research assistant at [Music and AI Lab](https://musicai.citi.sinica.edu.tw/), Academia Sinica since Nov. 2020.
 * Alongside my interests in speech processing, I'm a classical music lover. In [this video](https://www.youtube.com/watch?v=dU4iPHfb2tI&list=PLWxD9JBT-P09TzTE_kozSU4TOXfiVPGTA&index=11), my friends and I perform Mendelssohn's Piano Trio No. 1, and I'm the one who plays the piano!
+"https://www.youtube.com/embed/dU4iPHfb2tI"
 
 # Research Experience
 * Speech Processing and Machine Learning Laboratory, National Taiwan University
